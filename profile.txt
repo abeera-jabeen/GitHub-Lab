@@ -4,3 +4,5 @@ Program: BSIT
 Semester: 1st Semester
 Interest: Learning programming
 Section: A
+
+Learning Goal: Understand version control.
